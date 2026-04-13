@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # AutoBiz AI 🤖 — Autonomous Business Decision Agents
 > Autonomous Business Decision Agents — AI-powered supply chain analytics
@@ -37,6 +36,4 @@
 
 ##### 🗄️ DataSet - DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS
 https://data.mendeley.com/datasets/8gx2fvg2k6/3
-=======
-# AutoBizAI-Database-Dashboard
->>>>>>> 3864d8c795362dcc7b0a25216cf74afd0886bd4f
+
